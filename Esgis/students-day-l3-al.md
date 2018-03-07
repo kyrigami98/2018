@@ -50,9 +50,9 @@ Prenom :
 Compte Github :
 
 ## Groupe 7
-Nom :
-Prenom :
-Compte Github :
+Nom : AKOTONOU
+Prenom : Arnaud
+Compte Github : https://github.com/arnaud97
 ---
 Nom : Anani
 Prenom : Ulrich Louange
