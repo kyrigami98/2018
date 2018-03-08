@@ -36,9 +36,9 @@ Nom :
 Prenom :
 Compte Github :
 ---
-Nom :
-Prenom :
-Compte Github :
+Nom : Dossou
+Prenom : Kyriel
+Compte Github : https://github.com/kyrigami98
 
 ## Groupe 6
 Nom :Agbaje
